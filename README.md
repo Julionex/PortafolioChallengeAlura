@@ -3,8 +3,7 @@
 # Challenge ONE | Front End -  Portafolio
 
 <p align="center" >
-     ![portafolio](https://github.com/user-attachments/assets/0eab21c5-766a-4694-bbf7-64c601d8298c)
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169097543-d5ada41e-7db8-481d-9d89-cef4efdf7e05.png">
+     <img width="600" heigth="600" src="https://github.com/user-attachments/assets/0eab21c5-766a-4694-bbf7-64c601d8298c">
 </p>
 
 
